@@ -5,4 +5,4 @@ this is modify the content after jsut created the story
 
 I have added third comment 
 
-This is the modification from the third party additive and has contributed the story 
+Issue is resovled the raised by the develoeprs 
